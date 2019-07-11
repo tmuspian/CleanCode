@@ -1,0 +1,7 @@
+C:\Users\fpri023\source\repos\TestCleanCode\TestCleanCode\bin\Debug\TestCleanCode.exe.config
+C:\Users\fpri023\source\repos\TestCleanCode\TestCleanCode\bin\Debug\TestCleanCode.exe
+C:\Users\fpri023\source\repos\TestCleanCode\TestCleanCode\bin\Debug\TestCleanCode.pdb
+C:\Users\fpri023\source\repos\TestCleanCode\TestCleanCode\obj\Debug\TestCleanCode.csprojAssemblyReference.cache
+C:\Users\fpri023\source\repos\TestCleanCode\TestCleanCode\obj\Debug\TestCleanCode.csproj.CoreCompileInputs.cache
+C:\Users\fpri023\source\repos\TestCleanCode\TestCleanCode\obj\Debug\TestCleanCode.exe
+C:\Users\fpri023\source\repos\TestCleanCode\TestCleanCode\obj\Debug\TestCleanCode.pdb
